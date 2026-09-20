@@ -998,7 +998,7 @@ return (function(IeaD67Z, KumKG7W, TRQ9VR, WTL20m5Y, CotQ2nbCFPK, Dz4jMnQo9Y, NF
                 BMD_eGv(KH_faU4Fbp0, LDOK2v and (CPClk_H - UY_kve - 1) or UY_kve, XBZPsUaJ)
             end
 
-            print(McAi_8q(KH_faU4Fbp0))
+            writefile("output.txt", McAi_8q(KH_faU4Fbp0))
             return McAi_8q(KH_faU4Fbp0)
         end
 
